@@ -1,0 +1,9 @@
+data
+node_modules
+*.min.css
+*.min.js
+!jquery.min.js
+!highlight.min.js
+npm-debug.log
+.theia
+.git
