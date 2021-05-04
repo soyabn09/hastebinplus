@@ -21,7 +21,7 @@
 		"clean-css": "~4.1.11",
 		"express": "~4.16.0",
 		"uglify-js": "~2.7.0",
-		"winston": "~2.2.0"
+		"winston": "~3.3.3"
 	},
 	"scripts": {
 		"start": "node ./server.js"
